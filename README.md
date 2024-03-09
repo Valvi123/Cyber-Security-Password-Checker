@@ -1,3 +1,2 @@
-Task 1_Cyber Security-password-Check
-
-This project is based on cybersecurity  as we have created Password checker with the helps of HTML, CSS, Java Script..
+# Task-1_Cyber-security_Password-Check
+This project is based on cybersecurity as we have created Password  Checker with the help of HTML, CSS, Jave Script
